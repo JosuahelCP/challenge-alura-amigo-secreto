@@ -12,8 +12,6 @@ Mostrar la lista actualizada en la pantalla.
 
 Seleccionar aleatoriamente un amigo de la lista.
 
-📋 Uso
-
 * Agregar un amigo
 
 Escribe un nombre en el campo de entrada.
